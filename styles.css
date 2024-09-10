@@ -91,9 +91,10 @@ h1 {
     width: 200px;
     height: 200px;
     margin-top: 10px;
-    margin-right: 7rem;
+    margin-right: 5.4rem;
     border-radius: 5px;
-    background-color: #ee05b8;
+    border-color: #ee05b8;
+    border: 5px;
 }
 
 /* Floating Animation */
