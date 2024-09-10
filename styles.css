@@ -80,7 +80,7 @@ h1 {
     flex-wrap: nowrap;
     overflow-x: auto;
     white-space: nowrap;
-    padding: 10px;
+    padding: 20px;
     background-color: transparent;
     border: none;
     border-radius: 5px;
@@ -91,7 +91,7 @@ h1 {
     width: 200px;
     height: 200px;
     margin-top: 10px;
-    margin-right: 8rem;
+    margin-right: 5rem;
     border-radius: 5px;
 }
 
